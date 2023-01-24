@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{5FE112AF-E56E-4137-A4C5-5806BBD745D5}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TestInClass__1__19 FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InClass_1_19/InventManager.cs">
+    <Files>
+      <File FileName="InClass_1_19/Program.cs" Line="9" Column="16" />
+      <File FileName="InClass_1_19/InventManager.cs" Line="67" Column="66" />
+      <File FileName="TestInClass_1_19/UnitTest1.cs" Line="9" Column="6" />
+      <File FileName="InClass_1_19/Inventory.cs" Line="15" Column="3" />
+      <File FileName="InClass_1_19/Input/Inventory.txt" Line="6" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InClass_1_19" expanded="True">
+            <Node name="InClass_1_19" expanded="True">
+              <Node name="Input" expanded="True" />
+            </Node>
+            <Node name="TestInClass_1_19" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.InClass__1__19 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
