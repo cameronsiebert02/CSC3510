@@ -1,17 +1,14 @@
 ﻿<Properties StartupConfiguration="{5FE112AF-E56E-4137-A4C5-5806BBD745D5}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.TestInClass__1__19 FirstBuild="True" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.InClass__1__19 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="InClass_1_19/InventManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestInClass_1_19/UnitTest1.cs">
     <Files>
-      <File FileName="InClass_1_19/Program.cs" Line="9" Column="16" />
-      <File FileName="InClass_1_19/InventManager.cs" Line="67" Column="66" />
-      <File FileName="TestInClass_1_19/UnitTest1.cs" Line="9" Column="6" />
-      <File FileName="InClass_1_19/Inventory.cs" Line="15" Column="3" />
-      <File FileName="InClass_1_19/Input/Inventory.txt" Line="6" Column="15" />
+      <File FileName="InClass_1_19/Program.cs" Line="8" Column="1" />
+      <File FileName="InClass_1_19/InventManager.cs" Line="52" Column="19" />
+      <File FileName="TestInClass_1_19/UnitTest1.cs" Line="18" Column="66" />
+      <File FileName="InClass_1_19/Inventory.cs" Line="17" Column="2" />
+      <File FileName="InClass_1_19/Input/Inventory.txt" Line="1" Column="1" />
+      <File FileName="InClass_1_19/Input/Test1_Inventory.txt" Line="6" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -24,8 +21,16 @@
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="InClass_1_19" expanded="True" selected="True" />
+        </State>
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.InClass__1__19 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

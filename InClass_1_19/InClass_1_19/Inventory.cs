@@ -15,4 +15,3 @@ namespace InClass_1_19
 		
 	}
 }
-

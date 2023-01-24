@@ -23,7 +23,8 @@ namespace InClass_1_19
             catch (Exception e)
             {
                 Console.WriteLine("Error on file open!");
-                Console.WriteLine(e.Message);
+                throw new FileNotFoundException("Error on file open!");
+                //Console.WriteLine(e.Message);
             }
         }
 
@@ -43,7 +44,6 @@ namespace InClass_1_19
                 try
                 {
                     item = toks[0];
-                    count = int.Parse(toks[1]);
                 }catch(Exception e)
                 {
                     throw new ArgumentException("Item not right");
@@ -69,4 +69,3 @@ namespace InClass_1_19
         }
 	}
 }
-

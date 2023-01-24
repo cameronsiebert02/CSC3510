@@ -1,0 +1,6 @@
+﻿Hammer,22,5.99
+Nails,100,Happy
+Saw,200,3.99
+Pliers,100,4.99
+Socket Wrench,500,5.99
+Level,250,6.99
