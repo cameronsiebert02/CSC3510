@@ -1,0 +1,17 @@
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.csproj.AssemblyReference.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.AssemblyInfoInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.AssemblyInfo.cs
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.csproj.CoreCompileInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_1_31/InClass_1_31/bin/Debug/net7.0/InClass_1_31
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_1_31/InClass_1_31/bin/Debug/net7.0/InClass_1_31.deps.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_1_31/InClass_1_31/bin/Debug/net7.0/InClass_1_31.runtimeconfig.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_1_31/InClass_1_31/bin/Debug/net7.0/InClass_1_31.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_1_31/InClass_1_31/bin/Debug/net7.0/InClass_1_31.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_1_31/InClass_1_31/bin/Debug/net7.0/MySqlConnector.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.csproj.CopyComplete
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/refint/InClass_1_31.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.genruntimeconfig.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/ref/InClass_1_31.dll

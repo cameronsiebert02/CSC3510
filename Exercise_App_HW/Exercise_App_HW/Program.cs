@@ -1,8 +1,10 @@
-﻿internal class CalorieBurner
+﻿using System;
+namespace Exercise_App_HW;
+public class CalorieBurner
 {
     public string inFile; // The input file path and name
     public string[] rows = new string[0]; // These are the raw rows from file
-    List<Excercise> excerData = new List<Excercise>(); // THese are Raw Rows converted into Exercise
+    List<Exercise> exerData = new List<Exercise>(); // THese are Raw Rows converted into Exercise
     public CalorieBurner(string inFile)
     {
         this.inFile = inFile;
@@ -11,14 +13,67 @@
     {
         // ToDo: Get all input data and set rows;
         // Sets the rows variable
-
+        string[] rows = new string[0];
+        try
+        {
+            rows = File.ReadAllLines(inFile);
+            this.rows = rows;
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine("Error on file open!");
+            throw new FileNotFoundException("Error on file open!");
+        }
     }
     public void SetExerciseRecords()
     {
         //ToDo: Convert this.rows into this.exerData rows
-        List<Excercise> eData = new List<Excercise>();
-        this.excerData = eData;
-
+        List<Exercise> eData = new List<Exercise>();
+        bool firstLine = true;
+        foreach(string row in rows)
+        {
+            if (firstLine)
+            {
+                firstLine = false;
+                continue;
+            }
+            string[] toks = row.Split(',');
+            DateTime date;
+            string exerType;
+            decimal time;
+            decimal speed;
+            try
+            {
+                date = DateTime.Parse(toks[0]);
+            }
+            catch (Exception e)
+            {
+                throw new ArgumentException("Date is not entered correctly in the data");
+            }
+            try
+            {
+                exerType = toks[1];
+            }catch(Exception e)
+            {
+                throw new ArgumentException("Exercise type is not entered correctly in the date");
+            }
+            try
+            {
+                time = decimal.Parse(toks[2]);
+            }catch(Exception e)
+            {
+                throw new ArgumentException("Time is not entered correctly in the data");
+            }
+            try
+            {
+                speed = decimal.Parse(toks[3]);
+            }catch(Exception e)
+            {
+                throw new ArgumentException("Speed is not entered correctly in the data");
+            }
+            exerData.Add(new Exercise(date, exerType, time, speed));
+        }
+        this.exerData = eData;
     }
     public decimal getWalkingCalories(DateTime inDate)
     {
@@ -30,6 +85,27 @@
         //      c.  90        less than 2.5
         // Returns: the total calories burned for that day for walking
         decimal cals = 0.0m;
+        foreach(Exercise exercise in exerData)
+        {
+            if(exercise.dt == inDate)
+            {
+                if (exercise.exType.Equals("Walking"))
+                {
+                    if (exercise.speed >= 3)
+                    {
+                        cals += 125 * (exercise.time / 60);
+                    }
+                    else if (Decimal.ToDouble(exercise.speed) >= 2.5)
+                    {
+                        cals += 100 * (exercise.time / 60);
+                    }
+                    else
+                    {
+                        cals += 90 * (exercise.time / 60);
+                    }
+                }
+            }
+        }
         return cals;
     }
     public decimal getBikingCalories(DateTime dateTime)
@@ -42,6 +118,19 @@
         //  Vigorous 14-19.9  55 Calories Per Mile
         // Racing >=20 65.4 - Calories Per Mile
         decimal cals = 0.0m;
+        foreach(Exercise exercise in exerData)
+        {
+            if(exercise.dt == dateTime)
+            {
+                if (exercise.exType.Equals("Biking"))
+                {
+                    if(exercise.speed >= 20)
+                    {
+                        cals += 65.4 * (exercise.time / 60);
+                    }
+                }
+            }
+        }
         return cals;
     }
 }

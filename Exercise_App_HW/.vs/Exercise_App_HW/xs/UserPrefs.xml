@@ -1,24 +1,27 @@
 ﻿<Properties StartupConfiguration="{AA43DFF1-C897-4175-8591-2780BC7E5B4E}|Default">
-  <MonoDevelop.Ide.ItemProperties.Exercise__App__HW PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise_App_HW/Exercise.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Exercise__App__HW PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise_App_HW/Program.cs">
     <Files>
-      <File FileName="Exercise_App_HW/Program.cs" Line="1" Column="1" />
-      <File FileName="Exercise_App_HW/Exercise.cs" Line="21" Column="1" />
+      <File FileName="Exercise_App_HW/Program.cs" Line="107" Column="14" />
+      <File FileName="Exercise_App_HW/Exercise.cs" Line="3" Column="2" />
+      <File FileName="Exercise_App_HW/Data/ExerciseData.txt" Line="1" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Exercise_App_HW" expanded="True">
-            <Node name="Exercise_App_HW" expanded="True" />
+            <Node name="Exercise_App_HW" expanded="True">
+              <Node name="Data" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
