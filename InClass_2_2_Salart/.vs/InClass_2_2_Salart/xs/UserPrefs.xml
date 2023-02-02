@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3008E229-A894-4A67-BF9C-9C3C45E0ECC8}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestSalary/UnitTest1.cs">
+    <Files>
+      <File FileName="InClass_2_2_Salart/Program.cs" Line="4" Column="1" />
+      <File FileName="InClass_2_2_Salart/SalaryCalculator.cs" Line="14" Column="1" />
+      <File FileName="TestSalary/UnitTest1.cs" Line="12" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InClass_2_2_Salart" expanded="True">
+            <Node name="InClass_2_2_Salart" expanded="True" />
+            <Node name="TestSalary" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="InClass_2_2_Salart" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.InClass__2__2__Salart PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

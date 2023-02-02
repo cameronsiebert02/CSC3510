@@ -1,10 +1,12 @@
 ﻿using System;
+using static System.Net.Mime.MediaTypeNames;
+using Exercise_App_HW;
 namespace Exercise_App_HW;
 public class CalorieBurner
 {
     public string inFile; // The input file path and name
     public string[] rows = new string[0]; // These are the raw rows from file
-    List<Exercise> exerData = new List<Exercise>(); // THese are Raw Rows converted into Exercise
+    public List<Exercise> exerData = new List<Exercise>(); // THese are Raw Rows converted into Exercise
     public CalorieBurner(string inFile)
     {
         this.inFile = inFile;
@@ -30,48 +32,43 @@ public class CalorieBurner
         //ToDo: Convert this.rows into this.exerData rows
         List<Exercise> eData = new List<Exercise>();
         bool firstLine = true;
-        foreach(string row in rows)
+        for (int i = 1; i < rows.Length; i++)
         {
-            if (firstLine)
-            {
-                firstLine = false;
-                continue;
-            }
-            string[] toks = row.Split(',');
-            DateTime date;
-            string exerType;
-            decimal time;
-            decimal speed;
-            try
-            {
-                date = DateTime.Parse(toks[0]);
-            }
-            catch (Exception e)
-            {
-                throw new ArgumentException("Date is not entered correctly in the data");
-            }
-            try
-            {
-                exerType = toks[1];
-            }catch(Exception e)
-            {
-                throw new ArgumentException("Exercise type is not entered correctly in the date");
-            }
-            try
-            {
-                time = decimal.Parse(toks[2]);
-            }catch(Exception e)
-            {
-                throw new ArgumentException("Time is not entered correctly in the data");
-            }
-            try
-            {
-                speed = decimal.Parse(toks[3]);
-            }catch(Exception e)
-            {
-                throw new ArgumentException("Speed is not entered correctly in the data");
-            }
-            exerData.Add(new Exercise(date, exerType, time, speed));
+                string[] toks = rows[i].Split(',');
+                DateTime date;
+                string exerType;
+                decimal time;
+                decimal speed;
+                try
+                {
+                    date = DateTime.Parse(toks[0]);
+                }
+                catch (Exception e)
+                {
+                    throw new ArgumentException("Date is not entered correctly in the data");
+                }
+                try
+                {
+                    exerType = toks[1];
+                }catch(Exception e)
+                {
+                    throw new ArgumentException("Exercise type is not entered correctly in the date");
+                }
+                try
+                {
+                    time = decimal.Parse(toks[2]);
+                }catch(Exception e)
+                {
+                    throw new ArgumentException("Time is not entered correctly in the data");
+                }
+                try
+                {
+                    speed = decimal.Parse(toks[3]);
+                }catch(Exception e)
+                {
+                    throw new ArgumentException("Speed is not entered correctly in the data");
+                }
+                eData.Add(new Exercise(date, exerType, time, speed));
         }
         this.exerData = eData;
     }
@@ -126,7 +123,19 @@ public class CalorieBurner
                 {
                     if(exercise.speed >= 20)
                     {
-                        cals += 65.4 * (exercise.time / 60);
+                        cals += 65.4m * (exercise.time / 60);
+                    }
+                    else if (exercise.speed >= 14)
+                    {
+                        cals += 55 * (exercise.time / 60);
+                    }
+                    else if(exercise.speed >= 10)
+                    {
+                        cals += 45 * (exercise.time / 60);
+                    }
+                    else
+                    {
+                        cals += 30 * (exercise.time / 60);
                     }
                 }
             }

@@ -15,7 +15,5 @@ namespace Exercise_App_HW
             this.time = time;
             this.speed = speed;
         }
-
     }
 }
-

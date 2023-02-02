@@ -1,0 +1,12 @@
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Exercise_App_HW/Exercise_App_HW/obj/Debug/net7.0/Exercise_App_HW.csproj.AssemblyReference.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Exercise_App_HW/Exercise_App_HW/obj/Debug/net7.0/Exercise_App_HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Exercise_App_HW/Exercise_App_HW/obj/Debug/net7.0/Exercise_App_HW.AssemblyInfoInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Exercise_App_HW/Exercise_App_HW/obj/Debug/net7.0/Exercise_App_HW.AssemblyInfo.cs
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Exercise_App_HW/Exercise_App_HW/obj/Debug/net7.0/Exercise_App_HW.csproj.CoreCompileInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Exercise_App_HW/Exercise_App_HW/bin/Debug/net7.0/Exercise_App_HW.deps.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Exercise_App_HW/Exercise_App_HW/bin/Debug/net7.0/Exercise_App_HW.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Exercise_App_HW/Exercise_App_HW/bin/Debug/net7.0/Exercise_App_HW.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Exercise_App_HW/Exercise_App_HW/obj/Debug/net7.0/Exercise_App_HW.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Exercise_App_HW/Exercise_App_HW/obj/Debug/net7.0/refint/Exercise_App_HW.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Exercise_App_HW/Exercise_App_HW/obj/Debug/net7.0/Exercise_App_HW.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Exercise_App_HW/Exercise_App_HW/obj/Debug/net7.0/ref/Exercise_App_HW.dll

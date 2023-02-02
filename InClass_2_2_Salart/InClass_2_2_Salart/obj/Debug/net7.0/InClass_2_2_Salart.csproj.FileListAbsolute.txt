@@ -1,0 +1,15 @@
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_2_Salart/InClass_2_2_Salart/bin/Debug/net7.0/InClass_2_2_Salart
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_2_Salart/InClass_2_2_Salart/bin/Debug/net7.0/InClass_2_2_Salart.deps.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_2_Salart/InClass_2_2_Salart/bin/Debug/net7.0/InClass_2_2_Salart.runtimeconfig.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_2_Salart/InClass_2_2_Salart/bin/Debug/net7.0/InClass_2_2_Salart.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_2_Salart/InClass_2_2_Salart/bin/Debug/net7.0/InClass_2_2_Salart.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_2_Salart/InClass_2_2_Salart/obj/Debug/net7.0/InClass_2_2_Salart.csproj.AssemblyReference.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_2_Salart/InClass_2_2_Salart/obj/Debug/net7.0/InClass_2_2_Salart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_2_Salart/InClass_2_2_Salart/obj/Debug/net7.0/InClass_2_2_Salart.AssemblyInfoInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_2_Salart/InClass_2_2_Salart/obj/Debug/net7.0/InClass_2_2_Salart.AssemblyInfo.cs
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_2_Salart/InClass_2_2_Salart/obj/Debug/net7.0/InClass_2_2_Salart.csproj.CoreCompileInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_2_Salart/InClass_2_2_Salart/obj/Debug/net7.0/InClass_2_2_Salart.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_2_Salart/InClass_2_2_Salart/obj/Debug/net7.0/refint/InClass_2_2_Salart.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_2_Salart/InClass_2_2_Salart/obj/Debug/net7.0/InClass_2_2_Salart.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_2_Salart/InClass_2_2_Salart/obj/Debug/net7.0/InClass_2_2_Salart.genruntimeconfig.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_2_Salart/InClass_2_2_Salart/obj/Debug/net7.0/ref/InClass_2_2_Salart.dll

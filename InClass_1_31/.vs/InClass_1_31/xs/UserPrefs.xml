@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{B8811177-38C9-4FA6-96E4-3385527A2C73}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.InClass__1__31 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.InClass__1__31 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InClass_1_31/DBConnectMySql.cs">
+    <Files>
+      <File FileName="InClass_1_31/Program.cs" Line="14" Column="18" />
+      <File FileName="InClass_1_31/DBConnectMySql.cs" Line="40" Column="16" />
+      <File FileName="InClass_1_31/Candy.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InClass_1_31" expanded="True">
+            <Node name="InClass_1_31" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

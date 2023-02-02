@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  testsalary:
+    image: ${DOCKER_REGISTRY-}testsalary
+    build:
+      context: .
+      dockerfile: TestSalary/Dockerfile
