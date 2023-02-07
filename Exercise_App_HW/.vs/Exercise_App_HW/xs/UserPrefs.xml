@@ -1,15 +1,10 @@
 ﻿<Properties StartupConfiguration="{328C9D2A-6BCA-4C90-A3BB-F3900C1A28F7}|Default">
-  <MonoDevelop.Ide.ItemProperties.ExerciseTests PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Exercise__App__HW PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ExerciseTests/UnitTest1.cs">
     <Files>
-      <File FileName="Exercise_App_HW/Program.cs" Line="73" Column="31" />
-      <File FileName="ExerciseTests/UnitTest1.cs" Line="9" Column="6" />
-      <File FileName="Exercise_App_HW/Data/ExerciseData.txt" Line="16" Column="25" />
+      <File FileName="Exercise_App_HW/Program.cs" Line="82" Column="40" />
+      <File FileName="ExerciseTests/UnitTest1.cs" Line="34" Column="45" />
+      <File FileName="Exercise_App_HW/Data/ExerciseData.txt" Line="19" Column="25" />
       <File FileName="Exercise_App_HW/Exercise.cs" Line="1" Column="1" />
     </Files>
     <Pads>
@@ -18,21 +13,18 @@
           <Node name="Exercise_App_HW" expanded="True">
             <Node name="Exercise_App_HW" expanded="True">
               <Node name="Data" expanded="True" />
-              <Node name="Exercise.cs" selected="True" />
             </Node>
-            <Node name="ExerciseTests" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Exercise_App_HW" expanded="True">
             <Node name="ExerciseTests" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExerciseTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Exercise__App__HW PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
