@@ -1,0 +1,15 @@
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/PhoneNumberChecker/PhoneNumberChecker/bin/Debug/net7.0/PhoneNumberChecker
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/PhoneNumberChecker/PhoneNumberChecker/bin/Debug/net7.0/PhoneNumberChecker.deps.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/PhoneNumberChecker/PhoneNumberChecker/bin/Debug/net7.0/PhoneNumberChecker.runtimeconfig.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/PhoneNumberChecker/PhoneNumberChecker/bin/Debug/net7.0/PhoneNumberChecker.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/PhoneNumberChecker/PhoneNumberChecker/bin/Debug/net7.0/PhoneNumberChecker.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/PhoneNumberChecker/PhoneNumberChecker/obj/Debug/net7.0/PhoneNumberChecker.csproj.AssemblyReference.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/PhoneNumberChecker/PhoneNumberChecker/obj/Debug/net7.0/PhoneNumberChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/PhoneNumberChecker/PhoneNumberChecker/obj/Debug/net7.0/PhoneNumberChecker.AssemblyInfoInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/PhoneNumberChecker/PhoneNumberChecker/obj/Debug/net7.0/PhoneNumberChecker.AssemblyInfo.cs
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/PhoneNumberChecker/PhoneNumberChecker/obj/Debug/net7.0/PhoneNumberChecker.csproj.CoreCompileInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/PhoneNumberChecker/PhoneNumberChecker/obj/Debug/net7.0/PhoneNumberChecker.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/PhoneNumberChecker/PhoneNumberChecker/obj/Debug/net7.0/refint/PhoneNumberChecker.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/PhoneNumberChecker/PhoneNumberChecker/obj/Debug/net7.0/PhoneNumberChecker.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/PhoneNumberChecker/PhoneNumberChecker/obj/Debug/net7.0/PhoneNumberChecker.genruntimeconfig.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/PhoneNumberChecker/PhoneNumberChecker/obj/Debug/net7.0/ref/PhoneNumberChecker.dll
