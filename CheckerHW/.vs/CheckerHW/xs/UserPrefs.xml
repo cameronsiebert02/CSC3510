@@ -1,4 +1,30 @@
 ﻿<Properties StartupConfiguration="{FB814804-F868-4F1D-9DCA-6465FBFAACAD}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CheckerHW FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CheckerHW PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CheckerTests/UnitTest1.cs">
+    <Files>
+      <File FileName="CheckerHW/Checker.cs" Line="12" Column="4" />
+      <File FileName="CheckerTests/UnitTest1.cs" Line="85" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CheckerHW" expanded="True">
+            <Node name="CheckerHW" expanded="True" />
+            <Node name="CheckerTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CheckerHW" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

@@ -1,0 +1,15 @@
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/CheckerHW/CheckerHW/bin/Debug/net7.0/CheckerHW
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/CheckerHW/CheckerHW/bin/Debug/net7.0/CheckerHW.deps.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/CheckerHW/CheckerHW/bin/Debug/net7.0/CheckerHW.runtimeconfig.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/CheckerHW/CheckerHW/bin/Debug/net7.0/CheckerHW.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/CheckerHW/CheckerHW/bin/Debug/net7.0/CheckerHW.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/CheckerHW/CheckerHW/obj/Debug/net7.0/CheckerHW.csproj.AssemblyReference.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/CheckerHW/CheckerHW/obj/Debug/net7.0/CheckerHW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/CheckerHW/CheckerHW/obj/Debug/net7.0/CheckerHW.AssemblyInfoInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/CheckerHW/CheckerHW/obj/Debug/net7.0/CheckerHW.AssemblyInfo.cs
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/CheckerHW/CheckerHW/obj/Debug/net7.0/CheckerHW.csproj.CoreCompileInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/CheckerHW/CheckerHW/obj/Debug/net7.0/CheckerHW.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/CheckerHW/CheckerHW/obj/Debug/net7.0/refint/CheckerHW.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/CheckerHW/CheckerHW/obj/Debug/net7.0/CheckerHW.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/CheckerHW/CheckerHW/obj/Debug/net7.0/CheckerHW.genruntimeconfig.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/CheckerHW/CheckerHW/obj/Debug/net7.0/ref/CheckerHW.dll
