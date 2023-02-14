@@ -1,0 +1,15 @@
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_14/InClass_2_14/bin/Debug/net7.0/InClass_2_14
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_14/InClass_2_14/bin/Debug/net7.0/InClass_2_14.deps.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_14/InClass_2_14/bin/Debug/net7.0/InClass_2_14.runtimeconfig.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_14/InClass_2_14/bin/Debug/net7.0/InClass_2_14.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_14/InClass_2_14/bin/Debug/net7.0/InClass_2_14.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/InClass_2_14.csproj.AssemblyReference.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/InClass_2_14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/InClass_2_14.AssemblyInfoInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/InClass_2_14.AssemblyInfo.cs
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/InClass_2_14.csproj.CoreCompileInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/InClass_2_14.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/refint/InClass_2_14.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/InClass_2_14.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/InClass_2_14.genruntimeconfig.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/ref/InClass_2_14.dll

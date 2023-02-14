@@ -1,0 +1,10 @@
+Card:
+    valid   [property valid]
+    invalid [single]
+NoFees:
+    0
+    .01 [property fee1]
+Book:
+    10 if[!fee1]
+    9  if[!fee1]
+    11 if[!fee1]

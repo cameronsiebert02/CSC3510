@@ -1,0 +1,12 @@
+#CurvePts
+Score:
+    0. [property zero]
+    100.
+    101. [error]
+    99.
+    70.
+curvePt:
+    0. [if zero]
+    negative.
+    101. [error]
+    50. 

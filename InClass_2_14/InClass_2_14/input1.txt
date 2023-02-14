@@ -1,0 +1,14 @@
+# This is a comment
+# double sum = add(x, y)
+X:
+    positive. [property pos]
+    negative. [property neg]
+    zero.     [error]
+    MAXINT.   [property maxInt]
+    MININT.
+Y:
+    positive. [if pos || neg]
+    negative. [if !maxInt]
+    zero.     [if !maxInt]
+    MAXINT.
+    MININT.
