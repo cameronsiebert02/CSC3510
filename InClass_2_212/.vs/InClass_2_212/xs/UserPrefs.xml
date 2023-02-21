@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{50D404AE-D401-479E-AE94-C6A2AA14EF5C}|Default">
+  <MonoDevelop.Ide.ItemProperties.WeatherTests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InClass_2_212/Weathertestdata.cs">
+    <Files>
+      <File FileName="InClass_2_212/Weather2.cs" />
+      <File FileName="InClass_2_212/WeatherMethodInjection.cs" />
+      <File FileName="WeatherTests/UnitTest1.cs" />
+      <File FileName="InClass_2_212/Weathertestdata.cs" Line="14" Column="1" />
+      <File FileName="InClass_2_212/IWeatherData.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InClass_2_212" expanded="True">
+            <Node name="InClass_2_212" expanded="True">
+              <Node name="Weathertestdata.cs" selected="True" />
+            </Node>
+            <Node name="WeatherTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.InClass__2__212 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>
