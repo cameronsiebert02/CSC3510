@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidtermReview_2_23", "MidtermReview_2_23\MidtermReview_2_23.csproj", "{E192DAB8-1BFF-4DC2-9117-33AB241C6757}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTReviewTests", "MTReviewTests\MTReviewTests.csproj", "{22DA3CC9-1A06-402B-80A4-8A265FC76FC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E192DAB8-1BFF-4DC2-9117-33AB241C6757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E192DAB8-1BFF-4DC2-9117-33AB241C6757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E192DAB8-1BFF-4DC2-9117-33AB241C6757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E192DAB8-1BFF-4DC2-9117-33AB241C6757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22DA3CC9-1A06-402B-80A4-8A265FC76FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DA3CC9-1A06-402B-80A4-8A265FC76FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DA3CC9-1A06-402B-80A4-8A265FC76FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DA3CC9-1A06-402B-80A4-8A265FC76FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B160D621-0A16-4353-A0A5-6292B4E76F96}
+	EndGlobalSection
+EndGlobal

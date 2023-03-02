@@ -1,0 +1,15 @@
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/MidtermReview_2_23/MidtermReview_2_23/bin/Debug/net7.0/MidtermReview_2_23
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/MidtermReview_2_23/MidtermReview_2_23/bin/Debug/net7.0/MidtermReview_2_23.deps.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/MidtermReview_2_23/MidtermReview_2_23/bin/Debug/net7.0/MidtermReview_2_23.runtimeconfig.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/MidtermReview_2_23/MidtermReview_2_23/bin/Debug/net7.0/MidtermReview_2_23.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/MidtermReview_2_23/MidtermReview_2_23/bin/Debug/net7.0/MidtermReview_2_23.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/MidtermReview_2_23/MidtermReview_2_23/obj/Debug/net7.0/MidtermReview_2_23.csproj.AssemblyReference.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/MidtermReview_2_23/MidtermReview_2_23/obj/Debug/net7.0/MidtermReview_2_23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/MidtermReview_2_23/MidtermReview_2_23/obj/Debug/net7.0/MidtermReview_2_23.AssemblyInfoInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/MidtermReview_2_23/MidtermReview_2_23/obj/Debug/net7.0/MidtermReview_2_23.AssemblyInfo.cs
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/MidtermReview_2_23/MidtermReview_2_23/obj/Debug/net7.0/MidtermReview_2_23.csproj.CoreCompileInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/MidtermReview_2_23/MidtermReview_2_23/obj/Debug/net7.0/MidtermReview_2_23.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/MidtermReview_2_23/MidtermReview_2_23/obj/Debug/net7.0/refint/MidtermReview_2_23.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/MidtermReview_2_23/MidtermReview_2_23/obj/Debug/net7.0/MidtermReview_2_23.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/MidtermReview_2_23/MidtermReview_2_23/obj/Debug/net7.0/MidtermReview_2_23.genruntimeconfig.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/MidtermReview_2_23/MidtermReview_2_23/obj/Debug/net7.0/ref/MidtermReview_2_23.dll

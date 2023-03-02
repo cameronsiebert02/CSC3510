@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g3OTY7rQyAv4DIygCKO2QmBEO0waKBYshXiZh8hPXEfW+mQMUX9IaS4XlXLu15OJ5dGNtAhHH4XjXJrf5BTB4A==",
+  "success": true,
+  "projectFilePath": "/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/MidtermReview_2_23/MidtermReview_2_23/MidtermReview_2_23.csproj",
+  "expectedPackageFiles": [
+    "/Users/cameronsiebert/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/cameronsiebert/.nuget/packages/moq/4.18.4/moq.4.18.4.nupkg.sha512",
+    "/Users/cameronsiebert/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
