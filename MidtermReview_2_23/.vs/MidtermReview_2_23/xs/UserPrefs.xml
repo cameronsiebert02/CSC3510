@@ -1,13 +1,10 @@
 ﻿<Properties StartupConfiguration="{E192DAB8-1BFF-4DC2-9117-33AB241C6757}|Default">
-  <MonoDevelop.Ide.ItemProperties.MidtermReview__2__23 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="MTReviewTests/MTTests.cs">
     <Files>
-      <File FileName="MTReviewTests/MTTests.cs" Line="22" Column="45" />
-      <File FileName="MidtermReview_2_23/TaxForm.cs" Line="3" Column="30" />
-      <File FileName="MidtermReview_2_23/TaxChecker.cs" Line="18" Column="11" />
-      <File FileName="MidtermReview_2_23/IGetData.cs" Line="11" Column="50" />
+      <File FileName="MTReviewTests/MTTests.cs" Line="117" Column="6" />
+      <File FileName="MidtermReview_2_23/TaxForm.cs" />
+      <File FileName="MidtermReview_2_23/TaxChecker.cs" />
+      <File FileName="MidtermReview_2_23/IGetData.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -25,5 +22,8 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MidtermReview__2__23 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
