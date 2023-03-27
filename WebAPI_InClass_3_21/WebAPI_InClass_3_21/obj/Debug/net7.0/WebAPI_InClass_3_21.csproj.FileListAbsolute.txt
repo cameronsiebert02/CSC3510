@@ -31,3 +31,5 @@
 /Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/WebAPI_InClass_3_21/WebAPI_InClass_3_21/obj/Debug/net7.0/WebAPI_InClass_3_21.pdb
 /Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/WebAPI_InClass_3_21/WebAPI_InClass_3_21/obj/Debug/net7.0/WebAPI_InClass_3_21.genruntimeconfig.cache
 /Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/WebAPI_InClass_3_21/WebAPI_InClass_3_21/obj/Debug/net7.0/ref/WebAPI_InClass_3_21.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/WebAPI_InClass_3_21/WebAPI_InClass_3_21/bin/Debug/net7.0/books.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/WebAPI_InClass_3_21/WebAPI_InClass_3_21/bin/Debug/net7.0/Newtonsoft.Json.dll

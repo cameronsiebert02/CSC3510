@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4871A42E-2774-4C9D-BCD3-991A3B372A5C}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InClassMovieAPI_3_23/Controllers/MoviesController.cs">
+    <Files>
+      <File FileName="InClassMovieAPI_3_23/DBConnectMysql.cs" Line="77" Column="72" />
+      <File FileName="InClassMovieAPI_3_23/Movies.cs" Line="19" Column="2" />
+      <File FileName="InClassMovieAPI_3_23/Controllers/MoviesController.cs" Line="56" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InClassMovieAPI_3_23" expanded="True">
+            <Node name="InClassMovieAPI_3_23" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.InClassMovieAPI__3__23 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

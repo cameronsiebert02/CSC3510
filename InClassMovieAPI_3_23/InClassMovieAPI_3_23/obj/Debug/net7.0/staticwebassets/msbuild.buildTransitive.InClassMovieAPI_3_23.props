@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/InClassMovieAPI_3_23.props" />
+</Project>

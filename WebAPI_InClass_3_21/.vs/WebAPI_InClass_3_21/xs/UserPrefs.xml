@@ -1,5 +1,29 @@
 ﻿<Properties StartupConfiguration="{F8F31FC2-3FD1-434F-BFCA-D1C66D723F32}|https">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.WebAPI__InClass__3__21 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAPI_InClass_3_21/Controllers/BooksController.cs">
+    <Files>
+      <File FileName="WebAPI_InClass_3_21/books.json" Line="110" Column="2" />
+      <File FileName="WebAPI_InClass_3_21/Controllers/BooksController.cs" Line="52" Column="2" />
+      <File FileName="WebAPI_InClass_3_21/Books.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebAPI_InClass_3_21" expanded="True">
+            <Node name="WebAPI_InClass_3_21" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BooksController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WebAPI__InClass__3__21 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
