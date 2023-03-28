@@ -52,23 +52,21 @@ namespace InClassMovieAPI_3_23.Controllers
         [Route("Movies")]
         public IActionResult Post([FromBody] Movies m)
         {
-            Console.WriteLine("---Inside Post");
-            Console.WriteLine(m.name);
-            Console.WriteLine(m.sales);
-
             DBConnectMysql dbc = new DBConnectMysql();
             dbc.Insert(m);
 
             string str = "Seems to work";
             IActionResult result = Ok(str);
-            //List<Movies> movies = new List<Movies>();
-            //string q = "Select is, name, sales, year from Movies";
-            //DBConnectMysql dbc = new DBConnectMysql();
-            //string where = string.Format(" where id={0}", id);
-            //List<Movies> movieRows = dbc.Select(where);
-            ////string ret = JsonConvert.SerializeObject(movieRows);
-            //return Ok(ret);
-            //IActionResult result = null;
+            return result;
+        }
+        [HttpDelete ("Movies/{id:int}")]
+        public IActionResult Delete(int id)
+        {
+            DBConnectMysql dbc = new DBConnectMysql();
+            dbc.Delete(id);
+
+            string str = string.Format("Delete ID:{0} Successful", id);
+            IActionResult result = Ok(str);
             return result;
         }
     }

@@ -1,10 +1,16 @@
 ﻿<Properties StartupConfiguration="{4871A42E-2774-4C9D-BCD3-991A3B372A5C}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.InClassMovieAPI__3__23 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="InClassMovieAPI_3_23/Controllers/MoviesController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InClassMovieAPI_3_23/bestMovies.html">
     <Files>
-      <File FileName="InClassMovieAPI_3_23/DBConnectMysql.cs" Line="77" Column="72" />
-      <File FileName="InClassMovieAPI_3_23/Movies.cs" Line="19" Column="2" />
-      <File FileName="InClassMovieAPI_3_23/Controllers/MoviesController.cs" Line="56" Column="1" />
+      <File FileName="InClassMovieAPI_3_23/DBConnectMysql.cs" Line="81" Column="58" />
+      <File FileName="InClassMovieAPI_3_23/Movies.cs" />
+      <File FileName="InClassMovieAPI_3_23/Controllers/MoviesController.cs" Line="51" Column="19" />
+      <File FileName="InClassMovieAPI_3_23/Controllers/Home.cs" Line="13" Column="31" />
+      <File FileName="InClassMovieAPI_3_23/bestMovies.html" Line="21" Column="45" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,16 +18,13 @@
           <Node name="InClassMovieAPI_3_23" expanded="True">
             <Node name="InClassMovieAPI_3_23" expanded="True">
               <Node name="Controllers" expanded="True" />
+              <Node name="bestMovies.html" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.InClassMovieAPI__3__23 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

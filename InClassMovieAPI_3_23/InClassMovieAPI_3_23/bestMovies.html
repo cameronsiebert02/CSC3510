@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+        .navbar-custom {
+            background-color: #98bf21;
+            height: 120px;
+        }
+
+        .nav-link {
+            color: blue !important
+        }
+    </style>
+    <script>
+        function showMovies() {
+            let url = "http://localhost:7131/Movies";
+            alert("FL2")
+            alert( url );
+            fetch( url )
+                .then ( response => response.json())
+                .then( data => {
+                    console.log( "-------Data ----");
+                    console.log( data );
+                    let oStr = "<table class='table table-striped'>";
+                    oStr += "<tr><th> Id</th><th> Title</th>";
+                    oStr += "<th> Author </th><th> Year</th>";
+                    oStr += "<th>Num Sold</th>";
+                    oStr += "</tr>";
+                    for ( let i=0; i<data.length; i++){
+                        let row = data[i];
+                        oStr += `<tr><td> ${row.id}</td><td> ${row.name}</td>`;
+                        oStr += `<td> ${row.sales}</td>`;
+                        oStr += `<td> ${row.year}</td>`;
+                        oStr += `</tr> `;
+                    }
+                    oStr += "</table>";
+
+                    document.getElementById("results").innerHTML = oStr;
+                })
+        }
+        function insertMovie() {
+            alert("Morning yall ");
+            let url = "https://localhost:7131/Movies";
+            // let url = base + z;
+
+            let sales = document.getElementById("sales").value;
+            let name = document.getElementById("name").value;
+            let year = document.getElementById("year").value;
+            console.log(`year:${year}`)
+            console.log(`name:${name}`)
+            console.log(`sales:${sales}`)
+            fetch( url, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                        'name': `${name}`,
+                        'sales': `${sales}`,
+                        'year' : `${year}`
+                }),
+            })
+                .then((data) => {
+                    document.getElementById("results").innerHTML = "Insert Done";
+                })
+        }
+
+    </script>
+</head>
+<body>
+<nav class="navbar navbar-expand-sm navbar-custom navbar-light">
+    <div class="container-fluid">
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link active" href="#">Active</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link disabled" href="#">Disabled</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<div class="row">
+    <div class=" col-sm-3" style="background-color:red; border:1px solid black;">
+        <button type='button' onclick="showMovies()" class="btn btn-primary">Show Movies</button>
+
+           Name <input type="text" name="name" id="name">
+           <br /> Sales  <input type="text" name="sales" id="sales">
+           <br /> Year  <input type="text" name="year" id="year">
+            <button type='button' onClick="insertMovie()"> Insert  movie</button>
+
+    </div>
+    <div class=" col-sm-9" style="background-color:bisque; border:1px solid black;">
+        <div id="results"> results</div>
+
+    </div>
+
+</div>
+
+</body>
+</html>

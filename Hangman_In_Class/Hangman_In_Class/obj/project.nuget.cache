@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "IcohaYZmbtb8BI/XQIVld7sp66rfcMVQ0wSit0JsVW75PsNg42i16M9+s2j9fFD7zwwKFuhDnXK3UOLd1t3FCg==",
+  "success": true,
+  "projectFilePath": "/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Hangman_In_Class/Hangman_In_Class/Hangman_In_Class.csproj",
+  "expectedPackageFiles": [
+    "/Users/cameronsiebert/.nuget/packages/microsoft.aspnetcore.openapi/7.0.4/microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
+    "/Users/cameronsiebert/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/cameronsiebert/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/cameronsiebert/.nuget/packages/mysqlconnector/2.2.5/mysqlconnector.2.2.5.nupkg.sha512",
+    "/Users/cameronsiebert/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/cameronsiebert/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/cameronsiebert/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/cameronsiebert/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
