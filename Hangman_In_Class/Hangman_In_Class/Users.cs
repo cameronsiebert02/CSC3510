@@ -10,6 +10,10 @@ namespace Hangman_In_Class
 		public int error { get; set; }
 		public string Msg { get; set; }
 
+        public Users()
+        {
+
+        }
         public Users(int id, string userName, int win, int loss)
         {
             this.id = id;

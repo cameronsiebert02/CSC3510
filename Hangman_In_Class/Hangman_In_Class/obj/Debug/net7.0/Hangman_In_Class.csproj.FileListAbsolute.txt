@@ -31,3 +31,5 @@
 /Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Hangman_In_Class/Hangman_In_Class/obj/Debug/net7.0/Hangman_In_Class.pdb
 /Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Hangman_In_Class/Hangman_In_Class/obj/Debug/net7.0/Hangman_In_Class.genruntimeconfig.cache
 /Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Hangman_In_Class/Hangman_In_Class/obj/Debug/net7.0/ref/Hangman_In_Class.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Hangman_In_Class/Hangman_In_Class/bin/Debug/net7.0/MySqlConnector.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Hangman_In_Class/Hangman_In_Class/bin/Debug/net7.0/Newtonsoft.Json.dll
