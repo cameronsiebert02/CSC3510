@@ -98,6 +98,25 @@ namespace Hangman_In_Class
 
         //}
         //----
+        //----
+        public void update(string userName, int win, int loss, string where)
+        {
+            string q = string.Format("update Hangman_User set userName='{0}', " +
+                "win='{1}', loss='{2}'  {3}", userName, win, loss, where);
+            System.Diagnostics.Debug.WriteLine("FLX UPDATE  QQQQQ=" + q);
+            //console.writeline("flx2:{0}", q);
+            //console.readline();
+            if (this.OpenConnection())
+            {
+                MySqlCommand cmd = new MySqlCommand(q, connection);
+                MySqlDataReader dr = cmd.ExecuteReader();
+                this.CloseConnection();
+            }
+            else
+            {
+                System.Diagnostics.Debug.WriteLine("FL1 Open Failure QQQQQ=" + q);
+            }
+        }
+        //----
     }
 }
-

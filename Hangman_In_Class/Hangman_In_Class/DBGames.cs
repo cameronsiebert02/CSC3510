@@ -1,20 +1,18 @@
-﻿using System;
-using MySqlConnector;
-namespace Hangman_In_Class
-{
-	public class DBGames : DBConnectMysql
-	{
-        public List<Hangman_game> Select(string where)
-        {
+﻿using MySqlConnector;
+
+namespace Hangman_In_Class {
+    public class DBGames : DBConnectMysql {
+        //
+        // ----
+        public List<Hangman_game> Select(string where) {
             List<Hangman_game> result = new List<Hangman_game>();
             string q = "SELECT id, userid, miss, secret_word, show_word, game_state,";
             q += " guess_letters FROM Hangman_game " + where;
-            if (this.OpenConnection())
-            {
+            System.Diagnostics.Debug.WriteLine("-----SQ=" + q);
+            if (this.OpenConnection()) {
                 MySqlCommand cmd = new MySqlCommand(q, connection);
                 MySqlDataReader dr = cmd.ExecuteReader();
-                while (dr.Read())
-                {
+                while (dr.Read()) {
                     int id = dr.GetInt32(0);
                     int userId = dr.GetInt32(1);
                     int miss = dr.GetInt32(2);
@@ -29,39 +27,32 @@ namespace Hangman_In_Class
                 }
                 this.connection.Close();
             }
-            else
-            {
+            else {
                 Console.WriteLine("Connect did not open");
             }
             return result;
 
         }
-        public void InsertGame(Hangman_game hg)
-        {
+        public void InsertGame(Hangman_game hg) {
             string q = string.Format("INSERT INTO Hangman_game ( userId, miss, secret_word, show_word, game_state, guess_letters )   VALUES('{0}', '{1}', '{2}','{3}','{4}','{5}')",
                               hg.userId, hg.miss, hg.secret_word, hg.show_word, hg.game_state, hg.guess_letters);
             System.Diagnostics.Debug.WriteLine("Insert QQQQQ=" + q);
-            if (this.OpenConnection())
-            {
+            if (this.OpenConnection()) {
                 MySqlCommand cmd = new MySqlCommand(q, connection);
                 MySqlDataReader dr = cmd.ExecuteReader();
 
             }
-            else
-            {
+            else {
                 Console.WriteLine("FL2: Connect did not open");
             }
             this.CloseConnection();
         }
-        public int SlectSingleRowRetInt(string q)
-        {
+        public int SlectSingleRowRetInt(string q) {
             int ret = 0;
-            if (this.OpenConnection())
-            {
+            if (this.OpenConnection()) {
                 MySqlCommand cmd = new MySqlCommand(q, connection);
                 MySqlDataReader dr = cmd.ExecuteReader();
-                while (dr.Read())
-                {
+                while (dr.Read()) {
                     int ct = dr.GetInt32(0);
                     return ct;
                 }
@@ -70,15 +61,12 @@ namespace Hangman_In_Class
             return ret;
 
         }
-        public String SlectSingleString(string q)
-        {
+        public String SlectSingleString(string q) {
             string ret = "";
-            if (this.OpenConnection())
-            {
+            if (this.OpenConnection()) {
                 MySqlCommand cmd = new MySqlCommand(q, connection);
                 MySqlDataReader dr = cmd.ExecuteReader();
-                while (dr.Read())
-                {
+                while (dr.Read()) {
                     ret = dr.GetString(0);
                     this.CloseConnection();
                     return ret;
@@ -88,19 +76,16 @@ namespace Hangman_In_Class
             return ret;
 
         }
-        public Hangman_game SelectHangManGame(string wh)
-        {
-            string q = "Select userId,miss,secret_word,show_word,game_state, guess_letters";
+        public Hangman_game SelectHangManGame(string wh) {
+            string q = "Select userId, miss,secret_word,show_word,game_state, guess_letters";
             q += String.Format(" from Hangman_game  {0}", wh);
             System.Diagnostics.Debug.WriteLine("Guess QQQQQ=" + q);
             string ret = "";
             Hangman_game hg = new Hangman_game();
-            if (this.OpenConnection())
-            {
+            if (this.OpenConnection()) {
                 MySqlCommand cmd = new MySqlCommand(q, connection);
                 MySqlDataReader dr = cmd.ExecuteReader();
-                while (dr.Read())
-                {
+                while (dr.Read()) {
                     hg.userId = dr.GetInt32(0);
                     hg.miss = dr.GetInt32(1);
                     hg.secret_word = dr.GetString(2);
@@ -115,23 +100,19 @@ namespace Hangman_In_Class
             return hg;
 
         }
-        public String getRandomWord()
-        {
+        public String getRandomWord() {
             string ret = "";
-            if (this.OpenConnection())
-            {
+            if (this.OpenConnection()) {
                 string q = "select word from Hangman_words order by RAND() limit 1";
                 MySqlCommand cmd = new MySqlCommand(q, connection);
                 MySqlDataReader dr = cmd.ExecuteReader();
-                while (dr.Read())
-                {
+                while (dr.Read()) {
                     ret = dr.GetString(0);
                     this.CloseConnection();
                     return ret;
                 }
             }
-            else
-            {
+            else {
                 Console.Write("\n Cannot open!");
             }
             this.CloseConnection();
@@ -149,28 +130,42 @@ namespace Hangman_In_Class
         //    }
 
         //}
-        public void Update(Hangman_game hg, string where)
-        {
+        public void Update(Hangman_game hg, string where) {
             string q = string.Format("update Hangman_game set ");
             q += String.Format("miss='{0}'", hg.miss);
             q += String.Format(", show_word='{0}'", hg.show_word);
             q += String.Format(", game_state='{0}'", hg.game_state);
-            q += String.Format(", gusess_letters='{0}'", hg.guess_letters);
-            q += String.Format(" where {0}", where);
+            q += String.Format(", guess_letters='{0}'", hg.guess_letters);
+            q += String.Format(" {0}", where);
             System.Diagnostics.Debug.WriteLine("Update QQQQQ=" + q);
-            if (this.OpenConnection())
-            {
+            if (this.OpenConnection()) {
                 MySqlCommand cmd = new MySqlCommand();
                 cmd.CommandText = q;
                 cmd.Connection = this.connection;
                 cmd.ExecuteNonQuery();
                 this.connection.Close();
             }
-            else
-            {
+            else {
                 Console.WriteLine("Error in Update Open failed");
             }
 
         }
+
+    //
+    public void Delete(int id) { 
+        string q = string.Format("DELETE FROM Hangman_game where userId='{0}'", id);
+        if (this.OpenConnection())
+        {
+            MySqlCommand cmd = new MySqlCommand(q, connection);
+            cmd.ExecuteNonQuery();
+            this.connection.Close();
+        }
+        else
+        {
+            System.Diagnostics.Debug.WriteLine("Error in Delete open failed q=" + q);
+            this.connection.Close();
+        }
+
+    }
     }
 }
