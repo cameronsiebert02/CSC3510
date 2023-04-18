@@ -1,14 +1,12 @@
 ﻿<Properties StartupConfiguration="{EB53DCE7-F7AA-41B1-A628-CCF282E7C66A}|https">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Hangman_In_Class/Controllers/HangmanGamePrepController .cs">
     <Files>
-      <File FileName="Hangman_In_Class/DBUsers2.cs" Line="2" Column="22" />
+      <File FileName="Hangman_In_Class/DBUsers2.cs" />
       <File FileName="Hangman_In_Class/Controllers/HangmanGamePrepController .cs" Line="17" Column="7" />
-      <File FileName="Hangman_In_Class/Controllers/UsersControllerPrep.cs" Line="37" Column="1" />
-      <File FileName="Hangman_In_Class/DBGames.cs" Line="5" Column="11" />
+      <File FileName="Hangman_In_Class/Controllers/UsersControllerPrep.cs" />
+      <File FileName="Hangman_In_Class/DBGames.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -24,7 +22,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Hangman__In__Class PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

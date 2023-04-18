@@ -1,0 +1,15 @@
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassGPACalc_4_18/InClassGPACalc_4_18/bin/Debug/net7.0/InClassGPACalc_4_18
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassGPACalc_4_18/InClassGPACalc_4_18/bin/Debug/net7.0/InClassGPACalc_4_18.deps.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassGPACalc_4_18/InClassGPACalc_4_18/bin/Debug/net7.0/InClassGPACalc_4_18.runtimeconfig.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassGPACalc_4_18/InClassGPACalc_4_18/bin/Debug/net7.0/InClassGPACalc_4_18.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassGPACalc_4_18/InClassGPACalc_4_18/bin/Debug/net7.0/InClassGPACalc_4_18.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassGPACalc_4_18/InClassGPACalc_4_18/obj/Debug/net7.0/InClassGPACalc_4_18.csproj.AssemblyReference.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassGPACalc_4_18/InClassGPACalc_4_18/obj/Debug/net7.0/InClassGPACalc_4_18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassGPACalc_4_18/InClassGPACalc_4_18/obj/Debug/net7.0/InClassGPACalc_4_18.AssemblyInfoInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassGPACalc_4_18/InClassGPACalc_4_18/obj/Debug/net7.0/InClassGPACalc_4_18.AssemblyInfo.cs
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassGPACalc_4_18/InClassGPACalc_4_18/obj/Debug/net7.0/InClassGPACalc_4_18.csproj.CoreCompileInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassGPACalc_4_18/InClassGPACalc_4_18/obj/Debug/net7.0/InClassGPACalc_4_18.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassGPACalc_4_18/InClassGPACalc_4_18/obj/Debug/net7.0/refint/InClassGPACalc_4_18.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassGPACalc_4_18/InClassGPACalc_4_18/obj/Debug/net7.0/InClassGPACalc_4_18.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassGPACalc_4_18/InClassGPACalc_4_18/obj/Debug/net7.0/InClassGPACalc_4_18.genruntimeconfig.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassGPACalc_4_18/InClassGPACalc_4_18/obj/Debug/net7.0/ref/InClassGPACalc_4_18.dll
