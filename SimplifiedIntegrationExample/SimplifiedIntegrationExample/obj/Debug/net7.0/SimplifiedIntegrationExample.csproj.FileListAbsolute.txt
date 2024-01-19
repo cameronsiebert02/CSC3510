@@ -1,0 +1,15 @@
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/SimplifiedIntegrationExample/SimplifiedIntegrationExample/bin/Debug/net7.0/SimplifiedIntegrationExample
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/SimplifiedIntegrationExample/SimplifiedIntegrationExample/bin/Debug/net7.0/SimplifiedIntegrationExample.deps.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/SimplifiedIntegrationExample/SimplifiedIntegrationExample/bin/Debug/net7.0/SimplifiedIntegrationExample.runtimeconfig.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/SimplifiedIntegrationExample/SimplifiedIntegrationExample/bin/Debug/net7.0/SimplifiedIntegrationExample.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/SimplifiedIntegrationExample/SimplifiedIntegrationExample/bin/Debug/net7.0/SimplifiedIntegrationExample.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/SimplifiedIntegrationExample/SimplifiedIntegrationExample/obj/Debug/net7.0/SimplifiedIntegrationExample.csproj.AssemblyReference.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/SimplifiedIntegrationExample/SimplifiedIntegrationExample/obj/Debug/net7.0/SimplifiedIntegrationExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/SimplifiedIntegrationExample/SimplifiedIntegrationExample/obj/Debug/net7.0/SimplifiedIntegrationExample.AssemblyInfoInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/SimplifiedIntegrationExample/SimplifiedIntegrationExample/obj/Debug/net7.0/SimplifiedIntegrationExample.AssemblyInfo.cs
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/SimplifiedIntegrationExample/SimplifiedIntegrationExample/obj/Debug/net7.0/SimplifiedIntegrationExample.csproj.CoreCompileInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/SimplifiedIntegrationExample/SimplifiedIntegrationExample/obj/Debug/net7.0/SimplifiedIntegrationExample.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/SimplifiedIntegrationExample/SimplifiedIntegrationExample/obj/Debug/net7.0/refint/SimplifiedIntegrationExample.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/SimplifiedIntegrationExample/SimplifiedIntegrationExample/obj/Debug/net7.0/SimplifiedIntegrationExample.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/SimplifiedIntegrationExample/SimplifiedIntegrationExample/obj/Debug/net7.0/SimplifiedIntegrationExample.genruntimeconfig.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/SimplifiedIntegrationExample/SimplifiedIntegrationExample/obj/Debug/net7.0/ref/SimplifiedIntegrationExample.dll

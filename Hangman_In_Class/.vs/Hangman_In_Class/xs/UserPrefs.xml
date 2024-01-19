@@ -1,12 +1,18 @@
 ﻿<Properties StartupConfiguration="{EB53DCE7-F7AA-41B1-A628-CCF282E7C66A}|https">
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Hangman__In__Class PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Hangman_In_Class/Controllers/HangmanGamePrepController .cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hangman_In_Class/Controllers/UsersControllerPrep.cs">
     <Files>
       <File FileName="Hangman_In_Class/DBUsers2.cs" />
       <File FileName="Hangman_In_Class/Controllers/HangmanGamePrepController .cs" Line="17" Column="7" />
-      <File FileName="Hangman_In_Class/Controllers/UsersControllerPrep.cs" />
+      <File FileName="Hangman_In_Class/Controllers/UsersControllerPrep.cs" Line="1" Column="1" />
       <File FileName="Hangman_In_Class/DBGames.cs" />
+      <File FileName="Hangman_In_Class/DBConnectMysql.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,7 +20,7 @@
           <Node name="Hangman_In_Class" expanded="True">
             <Node name="Hangman_In_Class" expanded="True">
               <Node name="Controllers" expanded="True">
-                <Node name="HangmanGamePrepController .cs" selected="True" />
+                <Node name="UsersControllerPrep.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -22,9 +28,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Hangman__In__Class PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

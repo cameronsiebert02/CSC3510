@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{742F1F30-0A00-46AB-AACF-66236D5263A7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestGPACalc/UnitTest1.cs">
+    <Files>
+      <File FileName="SimplifiedIntegrationExample/Course.cs" Line="8" Column="1" />
+      <File FileName="SimplifiedIntegrationExample/IDatabase.cs" Line="8" Column="1" />
+      <File FileName="SimplifiedIntegrationExample/IGPACalc.cs" Line="4" Column="19" />
+      <File FileName="SimplifiedIntegrationExample/GPACalc.cs" Line="31" Column="14" />
+      <File FileName="SimplifiedIntegrationExample/DB.cs" Line="8" Column="1" />
+      <File FileName="TestGPACalc/UnitTest1.cs" Line="37" Column="2" />
+      <File FileName="TestGPACalc/DBStub.cs" Line="29" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimplifiedIntegrationExample" expanded="True">
+            <Node name="SimplifiedIntegrationExample" expanded="True" />
+            <Node name="TestGPACalc" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SimplifiedIntegrationExample" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SimplifiedIntegrationExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

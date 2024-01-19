@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{73838F9B-8182-4CCA-A2CC-372AA9B0C6C7}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.InClassCoverageExamples PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StackTests/UnitTest1.cs">
+    <Files>
+      <File FileName="InClassCoverageExamples/Program.cs" Line="1" Column="1" />
+      <File FileName="InClassCoverageExamples/MyClass.cs" Line="40" Column="29" />
+      <File FileName="TestProject1/UnitTest1.cs" Line="26" Column="28" />
+      <File FileName="InClassCoverageExamples/MyStack.cs" Line="20" Column="52" />
+      <File FileName="StackTests/UnitTest1.cs" Line="28" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InClassCoverageExamples" expanded="True">
+            <Node name="InClassCoverageExamples" expanded="True" />
+            <Node name="StackTests" expanded="True" />
+            <Node name="TestProject1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="InClassCoverageExamples" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

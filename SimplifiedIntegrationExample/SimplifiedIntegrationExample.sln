@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplifiedIntegrationExample", "SimplifiedIntegrationExample\SimplifiedIntegrationExample.csproj", "{742F1F30-0A00-46AB-AACF-66236D5263A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGPACalc", "TestGPACalc\TestGPACalc.csproj", "{E69B7453-B6E4-4751-9AC8-80FE35634AA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{742F1F30-0A00-46AB-AACF-66236D5263A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742F1F30-0A00-46AB-AACF-66236D5263A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742F1F30-0A00-46AB-AACF-66236D5263A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742F1F30-0A00-46AB-AACF-66236D5263A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E69B7453-B6E4-4751-9AC8-80FE35634AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69B7453-B6E4-4751-9AC8-80FE35634AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E69B7453-B6E4-4751-9AC8-80FE35634AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E69B7453-B6E4-4751-9AC8-80FE35634AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {032ED07F-C797-45B0-9576-68324070CA66}
+	EndGlobalSection
+EndGlobal

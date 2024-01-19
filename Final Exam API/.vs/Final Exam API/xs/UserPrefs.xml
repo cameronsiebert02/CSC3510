@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{46A69F78-06AD-445B-8BEF-D6B62A74A1D7}|https">
+  <MonoDevelop.Ide.ItemProperties.Final_220Exam_220API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Final Exam API/Controllers/ItemController.cs">
+    <Files>
+      <File FileName="Final Exam API/Controllers/ItemController.cs" Line="78" Column="61" />
+      <File FileName="Final Exam API/AverageRecord.cs" Line="8" Column="2" />
+      <File FileName="Final Exam API/DBManager.cs" Line="26" Column="1" />
+      <File FileName="Final Exam API/IDBManager.cs" Line="1" Column="1" />
+      <File FileName="Final Exam API/InItem.cs" Line="1" Column="1" />
+      <File FileName="Final Exam API/Item.cs" Line="1" Column="1" />
+      <File FileName="Final Exam API/Order.cs" Line="1" Column="1" />
+      <File FileName="Final Exam API/EmptyDB.cs" Line="14" Column="2" />
+      <File FileName="Final Exam API/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Final Exam API" expanded="True">
+            <Node name="Final Exam API" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ItemController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

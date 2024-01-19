@@ -1,0 +1,15 @@
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassCoverageExamples/InClassCoverageExamples/bin/Debug/net7.0/InClassCoverageExamples
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassCoverageExamples/InClassCoverageExamples/bin/Debug/net7.0/InClassCoverageExamples.deps.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassCoverageExamples/InClassCoverageExamples/bin/Debug/net7.0/InClassCoverageExamples.runtimeconfig.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassCoverageExamples/InClassCoverageExamples/bin/Debug/net7.0/InClassCoverageExamples.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassCoverageExamples/InClassCoverageExamples/bin/Debug/net7.0/InClassCoverageExamples.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassCoverageExamples/InClassCoverageExamples/obj/Debug/net7.0/InClassCoverageExamples.csproj.AssemblyReference.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassCoverageExamples/InClassCoverageExamples/obj/Debug/net7.0/InClassCoverageExamples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassCoverageExamples/InClassCoverageExamples/obj/Debug/net7.0/InClassCoverageExamples.AssemblyInfoInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassCoverageExamples/InClassCoverageExamples/obj/Debug/net7.0/InClassCoverageExamples.AssemblyInfo.cs
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassCoverageExamples/InClassCoverageExamples/obj/Debug/net7.0/InClassCoverageExamples.csproj.CoreCompileInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassCoverageExamples/InClassCoverageExamples/obj/Debug/net7.0/InClassCoverageExamples.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassCoverageExamples/InClassCoverageExamples/obj/Debug/net7.0/refint/InClassCoverageExamples.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassCoverageExamples/InClassCoverageExamples/obj/Debug/net7.0/InClassCoverageExamples.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassCoverageExamples/InClassCoverageExamples/obj/Debug/net7.0/InClassCoverageExamples.genruntimeconfig.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/InClassCoverageExamples/InClassCoverageExamples/obj/Debug/net7.0/ref/InClassCoverageExamples.dll

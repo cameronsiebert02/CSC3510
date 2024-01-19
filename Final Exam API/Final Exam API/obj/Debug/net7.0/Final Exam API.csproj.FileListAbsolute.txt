@@ -1,0 +1,34 @@
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/bin/Debug/net7.0/appsettings.Development.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/bin/Debug/net7.0/appsettings.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/bin/Debug/net7.0/Final Exam API
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/bin/Debug/net7.0/Final Exam API.deps.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/bin/Debug/net7.0/Final Exam API.runtimeconfig.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/bin/Debug/net7.0/Final Exam API.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/bin/Debug/net7.0/Final Exam API.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/Final Exam API.csproj.AssemblyReference.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/Final Exam API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/Final Exam API.AssemblyInfoInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/Final Exam API.AssemblyInfo.cs
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/Final Exam API.csproj.CoreCompileInputs.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/Final Exam API.MvcApplicationPartsAssemblyInfo.cs
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/Final Exam API.MvcApplicationPartsAssemblyInfo.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/staticwebassets/msbuild.Final Exam API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/staticwebassets/msbuild.build.Final Exam API.props
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Final Exam API.props
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Final Exam API.props
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/scopedcss/bundle/Final Exam API.styles.css
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/Final Exam API.csproj.CopyComplete
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/Final Exam API.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/refint/Final Exam API.dll
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/Final Exam API.pdb
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/Final Exam API.genruntimeconfig.cache
+/Users/cameronsiebert/Documents/GitHub/CSC 3510/CSC3510/Final Exam API/Final Exam API/obj/Debug/net7.0/ref/Final Exam API.dll
